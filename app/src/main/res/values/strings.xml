@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Yara AI</string>
+    <string name="accessibility_description">Yara reads the text on your screen and performs taps/typing ONLY when you ask her to (Screen button or a command), and only if you allowed screen actions in Yara settings.</string>
+</resources>

@@ -1,0 +1,7 @@
+requests
+SpeechRecognition
+PyAudio
+edge-tts
+Pillow
+pyautogui
+pyperclip
